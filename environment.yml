@@ -6,6 +6,10 @@ packages:
 - random
 - numpy 
 - panel 
-
+dependencies:
+- jupyter-panel-proxy
+- random
+- numpy 
+- panel 
 
 
