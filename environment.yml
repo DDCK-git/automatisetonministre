@@ -1,0 +1,11 @@
+channels:
+- pyviz
+
+packages:
+- jupyter-panel-proxy
+- random
+- numpy 
+- panel 
+
+
+
