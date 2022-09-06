@@ -1,6 +1,10 @@
 channels:
 - pyviz
 
+packages:
+- jupyter-panel-proxy
+
+
 dependencies:
 - jupyter-panel-proxy
 - numpy 
