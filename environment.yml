@@ -1,14 +1,8 @@
 channels:
 - pyviz
 
-packages:
-- jupyter-panel-proxy
-- random
-- numpy 
-- panel 
 dependencies:
 - jupyter-panel-proxy
-- random
 - numpy 
 - panel 
 
